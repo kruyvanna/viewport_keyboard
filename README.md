@@ -10,14 +10,14 @@ Usage
 
 * Add viewport.js
 
-    <script type"viewport.js"></script>
+		<script type"viewport.js"></script>
 
 
 
 * Initialize
 
-	var viewport = new Vieport();
-	viewport.setup();
+		var viewport = new Vieport();
+		viewport.setup();
 
 
 Ignore
