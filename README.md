@@ -16,7 +16,7 @@ Usage
 
 * Initialize
 
-		var viewport = new Vieport();
+		var viewport = new Viewport();
 		viewport.setup();
 
 
